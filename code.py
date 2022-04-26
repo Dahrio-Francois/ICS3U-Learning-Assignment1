@@ -4,8 +4,8 @@
 # Created on: March 2022
 # This is the "Hello, World!" program on the PyBadge
 
-import ugame
 import stage
+import ugame
 
 
 def game_scene():
